@@ -1,0 +1,16 @@
+DrugID,DrugName,TherapeuticArea,DosageForm,RxOTC,MRP,COGS,GrossMargin_Pct,LaunchYear,PatentExpiry,Manufacturer,ABCCategory,LifecycleStage
+DRG001,Cardovex 10mg,Cardiovascular,Tablet,Rx,450,180,0.6,2018,2028,PharmaCo India Ltd,A,Growth
+DRG002,Cardovex 20mg,Cardiovascular,Tablet,Rx,780,300,0.6154,2019,2029,PharmaCo India Ltd,A,Growth
+DRG003,Gluconorm SR,Diabetes,Tablet,Rx,320,120,0.625,2017,2027,PharmaCo India Ltd,B,Mature
+DRG004,Insulex Pen,Diabetes,Injection,Rx,1800,700,0.6111,2020,2030,PharmaCo India Ltd,A,Growth
+DRG005,Breathease HFA,Respiratory,Inhaler,Rx,1200,450,0.625,2016,2026,PharmaCo India Ltd,B,Mature
+DRG006,Breathease Neb,Respiratory,Solution,Rx,650,240,0.6308,2019,2029,PharmaCo India Ltd,B,Mature
+DRG007,Oncotarg 50mg,Oncology,Capsule,Rx,18000,7000,0.6111,2021,2031,PharmaCo India Ltd,A,Launch
+DRG008,Oncotarg 100mg,Oncology,Capsule,Rx,32000,12000,0.625,2021,2031,PharmaCo India Ltd,A,Launch
+DRG009,Neurozen 5mg,CNS,Tablet,Rx,560,210,0.625,2018,2028,PharmaCo India Ltd,B,Growth
+DRG010,Neurozen 10mg,CNS,Tablet,Rx,890,340,0.618,2019,2029,PharmaCo India Ltd,B,Growth
+DRG011,Immunoboost IV,Immunology,Infusion,Rx,45000,18000,0.6,2022,2032,PharmaCo India Ltd,A,Launch
+DRG012,Allerblock 5mg,Allergy,Tablet,OTC,120,40,0.6667,2015,N/A,PharmaCo India Ltd,C,Mature
+DRG013,Painzap Gel,Analgesics,Topical,OTC,180,60,0.6667,2014,N/A,PharmaCo India Ltd,C,Decline
+DRG014,Vitacore Plus,Nutraceuticals,Tablet,OTC,250,80,0.68,2016,N/A,PharmaCo India Ltd,C,Mature
+DRG015,Hepatoguard,Hepatology,Capsule,Rx,980,380,0.6122,2020,2030,PharmaCo India Ltd,B,Growth

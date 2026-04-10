@@ -1,0 +1,21 @@
+RepID,RepName,Zone,City,Designation,TherapySpecialization,JoiningDate,Qualification,TerritoryCount,ReportsTo
+REP001,Aarav Sharma,North,Delhi,Field MR,Cardio-Diabetes,2017-05-01,MBA-Pharma,11,REP017
+REP002,Bhavna Patel,West,Mumbai,Field MR,Oncology-Immuno,2017-02-25,MBA-Pharma,3,REP017
+REP003,Chandan Rao,South,Bangalore,Field MR,Respiratory-CNS,2014-06-25,M.Pharma,7,REP012
+REP004,Deepika Nair,South,Chennai,Field MR,Cardio-Diabetes,2021-10-30,M.Pharma,5,REP012
+REP005,Eshan Gupta,North,Lucknow,Senior MR,Oncology-Immuno,2020-11-17,M.Pharma,11,REP017
+REP006,Farida Khan,West,Pune,Senior MR,Respiratory-CNS,2014-10-18,B.Pharma,11,REP017
+REP007,Ganesh Iyer,South,Hyderabad,Senior MR,Cardio-Diabetes,2017-12-20,B.Pharma,4,REP012
+REP008,Harini Reddy,East,Kolkata,Field MR,Allergy-OTC,2018-10-04,MBA-Pharma,5,REP017
+REP009,Ishaan Mehta,North,Chandigarh,Field MR,CNS-Hepatology,2017-09-10,MBA-Pharma,5,REP017
+REP010,Jyoti Pillai,South,Kochi,Senior MR,Oncology-Immuno,2022-05-27,BSc,12,REP012
+REP011,Karthik Das,East,Bhubaneswar,Field MR,Cardio-Diabetes,2019-03-24,BSc,3,REP017
+REP012,Leela Krishnan,South,Coimbatore,Area Manager,All Therapies,2019-09-20,M.Pharma,3,REP012
+REP013,Manish Tiwari,North,Jaipur,Field MR,Respiratory-CNS,2012-01-01,B.Pharma,9,REP017
+REP014,Nalini Suresh,West,Ahmedabad,Senior MR,Allergy-OTC,2013-01-22,M.Pharma,3,REP017
+REP015,Om Prakash,East,Patna,Field MR,Cardio-Diabetes,2017-03-09,M.Pharma,7,REP017
+REP016,Preethi Menon,South,Trivandrum,Field MR,Hepatology-CNS,2014-10-09,MBA-Pharma,6,REP012
+REP017,Rajiv Saxena,North,Delhi,Area Manager,All Therapies,2014-06-12,B.Pharma,6,REP017
+REP018,Sunita Joshi,West,Nagpur,Field MR,Allergy-OTC,2013-11-12,MBA-Pharma,4,REP017
+REP019,Tarun Bose,East,Guwahati,Field MR,Respiratory-CNS,2018-11-20,B.Pharma,6,REP017
+REP020,Uma Devi,South,Vizag,Senior MR,Cardio-Diabetes,2014-05-08,MBA-Pharma,10,REP012

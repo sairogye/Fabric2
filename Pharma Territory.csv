@@ -1,0 +1,41 @@
+TerritoryID,TerritoryName,Zone,State,City,RepID,DoctorCount,MarketSize_Lakh,CompetitorCount
+TER001,Hyderabad Territory 1,South,Telangana,Hyderabad,REP015,83,369.5,8
+TER002,Bhubaneswar Territory 2,East,Odisha,Bhubaneswar,REP012,33,464.3,2
+TER003,Guwahati Territory 3,East,Assam,Guwahati,REP011,61,330.7,2
+TER004,Nagpur Territory 4,West,Maharashtra,Nagpur,REP017,67,153.3,4
+TER005,Vizag Territory 5,South,AP,Vizag,REP007,108,265.1,7
+TER006,Delhi Territory 6,North,Delhi,Delhi,REP010,85,363.9,6
+TER007,Bangalore Territory 7,South,Karnataka,Bangalore,REP001,80,471.5,5
+TER008,Jaipur Territory 8,North,Rajasthan,Jaipur,REP007,87,65.9,8
+TER009,Ahmedabad Territory 9,West,Gujarat,Ahmedabad,REP020,62,450,3
+TER010,Delhi Territory 10,North,Delhi,Delhi,REP008,57,75.6,7
+TER011,Kolkata Territory 11,East,WB,Kolkata,REP008,44,341.5,6
+TER012,Nagpur Territory 12,West,Maharashtra,Nagpur,REP012,57,81.6,7
+TER013,Kolkata Territory 13,East,WB,Kolkata,REP006,68,57.9,3
+TER014,Trivandrum Territory 14,South,Kerala,Trivandrum,REP004,36,374,6
+TER015,Pune Territory 15,West,Maharashtra,Pune,REP009,54,368.8,4
+TER016,Nagpur Territory 16,West,Maharashtra,Nagpur,REP019,24,411.3,8
+TER017,Kolkata Territory 17,East,WB,Kolkata,REP002,20,53.1,2
+TER018,Guwahati Territory 18,East,Assam,Guwahati,REP002,102,276.3,5
+TER019,Ahmedabad Territory 19,West,Gujarat,Ahmedabad,REP005,33,238.4,2
+TER020,Bhubaneswar Territory 20,East,Odisha,Bhubaneswar,REP004,111,452.3,8
+TER021,Jaipur Territory 21,North,Rajasthan,Jaipur,REP011,76,299.1,2
+TER022,Bhubaneswar Territory 22,East,Odisha,Bhubaneswar,REP019,66,240.9,6
+TER023,Bhubaneswar Territory 23,East,Odisha,Bhubaneswar,REP006,99,206.8,3
+TER024,Chennai Territory 24,South,Tamil Nadu,Chennai,REP013,33,349.8,5
+TER025,Trivandrum Territory 25,South,Kerala,Trivandrum,REP013,20,368.5,2
+TER026,Delhi Territory 26,North,Delhi,Delhi,REP018,95,189.7,7
+TER027,Coimbatore Territory 27,South,Tamil Nadu,Coimbatore,REP003,120,101.6,5
+TER028,Kolkata Territory 28,East,WB,Kolkata,REP007,43,174.3,6
+TER029,Chandigarh Territory 29,North,Punjab,Chandigarh,REP003,64,99.3,4
+TER030,Kochi Territory 30,South,Kerala,Kochi,REP013,71,209.3,3
+TER031,Bhubaneswar Territory 31,East,Odisha,Bhubaneswar,REP007,73,236.1,6
+TER032,Vizag Territory 32,South,AP,Vizag,REP008,34,447.6,3
+TER033,Vizag Territory 33,South,AP,Vizag,REP004,110,483.7,5
+TER034,Jaipur Territory 34,North,Rajasthan,Jaipur,REP009,60,217.3,5
+TER035,Ahmedabad Territory 35,West,Gujarat,Ahmedabad,REP007,27,117.5,2
+TER036,Trivandrum Territory 36,South,Kerala,Trivandrum,REP005,106,132.4,6
+TER037,Delhi Territory 37,North,Delhi,Delhi,REP013,37,61.2,6
+TER038,Mumbai Territory 38,West,Maharashtra,Mumbai,REP001,88,347,8
+TER039,Bangalore Territory 39,South,Karnataka,Bangalore,REP005,78,413,3
+TER040,Bhubaneswar Territory 40,East,Odisha,Bhubaneswar,REP008,58,211.9,3

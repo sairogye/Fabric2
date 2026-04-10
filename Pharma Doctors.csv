@@ -1,0 +1,301 @@
+DoctorID,DoctorName,Specialty,City,State,Zone,HospitalType,PrescriptionPotential,EngagementLevel,FirstContactDate,IsKOL,CME_Attended
+DOC0001,Dr. Sundar Iyer,Oncologist,Bhubaneswar,Odisha,East,Private Hospital,A,Low,2022-01-17,Yes,1
+DOC0002,Dr. Nirmala Gupta,Oncologist,Hyderabad,Telangana,South,Private Hospital,B,Medium,2020-06-11,No,0
+DOC0003,Dr. Kamala Nair,Cardiologist,Delhi,Delhi,North,Nursing Home,A,Low,2020-05-12,No,2
+DOC0004,Dr. Gopal Rao,Pulmonologist,Lucknow,Uttar Pradesh,North,Clinic,B,High,2020-04-03,No,4
+DOC0005,Dr. Sundar Gupta,Hepatologist,Bhubaneswar,Odisha,East,Private Hospital,B,High,2019-08-23,No,1
+DOC0006,Dr. Meena Pillai,Allergist,Coimbatore,Tamil Nadu,South,Nursing Home,B,Medium,2021-02-05,No,3
+DOC0007,Dr. Gopal Menon,Oncologist,Mumbai,Maharashtra,West,Clinic,C,High,2021-08-03,Yes,3
+DOC0008,Dr. Gopal Sharma,Allergist,Kochi,Kerala,South,Government Hospital,B,Medium,2019-06-26,No,5
+DOC0009,Dr. Geetha Sharma,Immunologist,Nagpur,Maharashtra,West,Medical College,A,Low,2022-04-06,Yes,4
+DOC0010,Dr. Dinesh Verma,Allergist,Pune,Maharashtra,West,Private Hospital,B,Medium,2020-09-13,Yes,0
+DOC0011,Dr. Kavitha Menon,General Physician,Jaipur,Rajasthan,North,Government Hospital,C,High,2019-11-25,No,2
+DOC0012,Dr. Ashok Kumar,Immunologist,Kochi,Kerala,South,Nursing Home,A,Low,2021-01-13,No,5
+DOC0013,Dr. Mohan Pillai,Hepatologist,Nagpur,Maharashtra,West,Government Hospital,B,Low,2020-09-21,No,4
+DOC0014,Dr. Ramesh Patel,Neurologist,Chandigarh,Punjab,North,Medical College,A,Low,2019-05-30,No,4
+DOC0015,Dr. Deepa Krishnan,General Physician,Nagpur,Maharashtra,West,Medical College,A,Low,2021-04-29,No,1
+DOC0016,Dr. Dinesh Das,Cardiologist,Bangalore,Karnataka,South,Government Hospital,B,Medium,2021-09-22,No,0
+DOC0017,Dr. Ramesh Das,General Physician,Kochi,Kerala,South,Nursing Home,A,Low,2019-12-04,No,4
+DOC0018,Dr. Sundar Reddy,Diabetologist,Chennai,Tamil Nadu,South,Private Hospital,A,High,2019-09-26,No,3
+DOC0019,Dr. Ajay Shah,Allergist,Coimbatore,Tamil Nadu,South,Nursing Home,C,Medium,2019-05-15,No,4
+DOC0020,Dr. Saritha Rao,Hepatologist,Jaipur,Rajasthan,North,Medical College,B,Low,2019-12-04,No,0
+DOC0021,Dr. Nirmala Verma,General Physician,Mumbai,Maharashtra,West,Clinic,B,Medium,2020-07-08,No,3
+DOC0022,Dr. Meena Kumar,Hepatologist,Coimbatore,Tamil Nadu,South,Government Hospital,A,Low,2022-01-19,No,0
+DOC0023,Dr. Priya Shah,Diabetologist,Delhi,Delhi,North,Medical College,B,High,2019-07-09,No,2
+DOC0024,Dr. Vijay Sharma,General Physician,Pune,Maharashtra,West,Clinic,B,Medium,2020-10-20,No,4
+DOC0025,Dr. Gopal Menon,General Physician,Jaipur,Rajasthan,North,Private Hospital,C,Medium,2019-09-26,No,4
+DOC0026,Dr. Sundar Nair,Diabetologist,Coimbatore,Tamil Nadu,South,Medical College,B,Low,2021-05-11,No,5
+DOC0027,Dr. Sundar Iyer,Hepatologist,Bhubaneswar,Odisha,East,Medical College,B,Medium,2022-11-29,No,3
+DOC0028,Dr. Sundar Rao,Allergist,Coimbatore,Tamil Nadu,South,Clinic,C,Medium,2019-07-01,Yes,0
+DOC0029,Dr. Kavitha Patel,Immunologist,Mumbai,Maharashtra,West,Government Hospital,B,Low,2021-10-21,No,4
+DOC0030,Dr. Geetha Verma,Cardiologist,Ahmedabad,Gujarat,West,Medical College,A,Low,2019-09-21,No,5
+DOC0031,Dr. Ramesh Shah,Pulmonologist,Ahmedabad,Gujarat,West,Clinic,C,Medium,2022-09-27,No,4
+DOC0032,Dr. Suresh Shah,Allergist,Kolkata,West Bengal,East,Medical College,B,Medium,2020-08-09,No,0
+DOC0033,Dr. Rajan Nair,Diabetologist,Nagpur,Maharashtra,West,Clinic,B,Medium,2019-07-11,No,4
+DOC0034,Dr. Anil Kumar,Hepatologist,Coimbatore,Tamil Nadu,South,Private Hospital,B,Low,2022-07-21,Yes,3
+DOC0035,Dr. Kamala Das,Diabetologist,Lucknow,Uttar Pradesh,North,Nursing Home,A,High,2022-03-08,No,3
+DOC0036,Dr. Kavitha Kumar,Neurologist,Bhubaneswar,Odisha,East,Medical College,C,Medium,2020-07-21,No,5
+DOC0037,Dr. Vijay Gupta,Diabetologist,Coimbatore,Tamil Nadu,South,Government Hospital,A,Low,2021-07-27,No,0
+DOC0038,Dr. Venkat Gupta,Diabetologist,Jaipur,Rajasthan,North,Private Hospital,C,High,2021-02-01,No,0
+DOC0039,Dr. Dinesh Pillai,Immunologist,Ahmedabad,Gujarat,West,Clinic,B,High,2022-04-08,No,4
+DOC0040,Dr. Radha Verma,General Physician,Ahmedabad,Gujarat,West,Medical College,C,Medium,2019-12-21,No,5
+DOC0041,Dr. Meena Menon,Neurologist,Mumbai,Maharashtra,West,Clinic,B,Medium,2020-09-14,No,4
+DOC0042,Dr. Prakash Gupta,Immunologist,Chennai,Tamil Nadu,South,Private Hospital,B,Low,2020-08-30,Yes,2
+DOC0043,Dr. Deepa Shah,Pulmonologist,Bangalore,Karnataka,South,Clinic,B,Medium,2020-06-01,No,5
+DOC0044,Dr. Nirmala Reddy,Diabetologist,Hyderabad,Telangana,South,Nursing Home,B,High,2021-08-03,No,0
+DOC0045,Dr. Vijay Kumar,Neurologist,Hyderabad,Telangana,South,Medical College,B,Medium,2021-03-12,No,4
+DOC0046,Dr. Radha Pillai,General Physician,Ahmedabad,Gujarat,West,Government Hospital,B,Low,2022-10-27,No,0
+DOC0047,Dr. Deepa Singh,Hepatologist,Lucknow,Uttar Pradesh,North,Nursing Home,C,Medium,2019-11-05,No,3
+DOC0048,Dr. Geetha Rao,Neurologist,Coimbatore,Tamil Nadu,South,Government Hospital,C,Medium,2022-01-12,No,1
+DOC0049,Dr. Sanjay Gupta,Hepatologist,Hyderabad,Telangana,South,Medical College,A,High,2020-11-22,No,3
+DOC0050,Dr. Anbu Iyer,Neurologist,Kolkata,West Bengal,East,Medical College,C,High,2019-02-08,No,1
+DOC0051,Dr. Kavitha Sharma,Hepatologist,Kolkata,West Bengal,East,Private Hospital,A,Medium,2020-10-18,Yes,2
+DOC0052,Dr. Mahesh Iyer,Diabetologist,Hyderabad,Telangana,South,Clinic,C,High,2020-07-15,Yes,4
+DOC0053,Dr. Radha Pillai,Cardiologist,Kolkata,West Bengal,East,Nursing Home,B,Medium,2020-10-12,Yes,2
+DOC0054,Dr. Ajay Reddy,Cardiologist,Pune,Maharashtra,West,Nursing Home,A,Low,2019-04-06,No,1
+DOC0055,Dr. Anil Sharma,Cardiologist,Nagpur,Maharashtra,West,Government Hospital,C,Medium,2020-10-01,No,5
+DOC0056,Dr. Venkat Gupta,Diabetologist,Hyderabad,Telangana,South,Private Hospital,B,Medium,2019-11-15,No,0
+DOC0057,Dr. Suresh Das,Cardiologist,Ahmedabad,Gujarat,West,Medical College,C,Low,2020-09-29,No,3
+DOC0058,Dr. Gopal Gupta,Oncologist,Bangalore,Karnataka,South,Clinic,B,Medium,2020-04-22,No,1
+DOC0059,Dr. Geetha Gupta,Diabetologist,Jaipur,Rajasthan,North,Medical College,A,Medium,2021-01-27,No,4
+DOC0060,Dr. Lalitha Singh,Oncologist,Jaipur,Rajasthan,North,Government Hospital,B,Medium,2021-05-19,No,1
+DOC0061,Dr. Usha Rao,Hepatologist,Pune,Maharashtra,West,Government Hospital,B,High,2020-12-01,No,1
+DOC0062,Dr. Ajay Nair,Allergist,Kochi,Kerala,South,Clinic,C,Medium,2022-07-19,Yes,3
+DOC0063,Dr. Deepa Pillai,Immunologist,Kochi,Kerala,South,Private Hospital,C,High,2022-03-08,No,4
+DOC0064,Dr. Geetha Reddy,Cardiologist,Delhi,Delhi,North,Nursing Home,C,Low,2020-10-16,No,4
+DOC0065,Dr. Usha Shah,General Physician,Jaipur,Rajasthan,North,Private Hospital,B,Low,2021-11-15,No,2
+DOC0066,Dr. Rekha Iyer,Oncologist,Chennai,Tamil Nadu,South,Government Hospital,B,Medium,2022-06-05,No,0
+DOC0067,Dr. Nirmala Patel,General Physician,Ahmedabad,Gujarat,West,Nursing Home,C,High,2022-04-26,No,4
+DOC0068,Dr. Gopal Kumar,Cardiologist,Delhi,Delhi,North,Private Hospital,A,Medium,2019-03-30,No,0
+DOC0069,Dr. Nirmala Nair,Allergist,Bhubaneswar,Odisha,East,Nursing Home,B,Low,2021-03-02,Yes,1
+DOC0070,Dr. Suresh Das,Allergist,Pune,Maharashtra,West,Government Hospital,B,Low,2021-05-17,No,4
+DOC0071,Dr. Kavitha Krishnan,Immunologist,Delhi,Delhi,North,Nursing Home,C,High,2019-09-22,No,3
+DOC0072,Dr. Vijay Krishnan,Allergist,Bhubaneswar,Odisha,East,Clinic,C,Low,2020-03-14,No,5
+DOC0073,Dr. Rajan Iyer,Allergist,Mumbai,Maharashtra,West,Clinic,A,Medium,2021-07-18,No,2
+DOC0074,Dr. Ajay Rao,Neurologist,Kochi,Kerala,South,Clinic,A,High,2019-01-07,No,1
+DOC0075,Dr. Suresh Menon,Hepatologist,Chandigarh,Punjab,North,Private Hospital,C,Medium,2019-01-01,No,4
+DOC0076,Dr. Rajan Kumar,General Physician,Bhubaneswar,Odisha,East,Nursing Home,B,Medium,2019-10-17,Yes,3
+DOC0077,Dr. Anbu Nair,Diabetologist,Mumbai,Maharashtra,West,Clinic,C,High,2019-06-21,Yes,2
+DOC0078,Dr. Sanjay Krishnan,Oncologist,Ahmedabad,Gujarat,West,Medical College,B,Medium,2021-03-30,No,2
+DOC0079,Dr. Lalitha Menon,Cardiologist,Bangalore,Karnataka,South,Government Hospital,B,High,2020-12-16,No,3
+DOC0080,Dr. Radha Sharma,Hepatologist,Hyderabad,Telangana,South,Clinic,B,High,2020-12-11,No,1
+DOC0081,Dr. Prakash Patel,Hepatologist,Coimbatore,Tamil Nadu,South,Government Hospital,C,Medium,2020-10-10,No,1
+DOC0082,Dr. Ajay Menon,General Physician,Lucknow,Uttar Pradesh,North,Nursing Home,B,Medium,2022-02-09,No,5
+DOC0083,Dr. Meena Reddy,Cardiologist,Delhi,Delhi,North,Medical College,B,Low,2020-06-25,No,5
+DOC0084,Dr. Ramesh Gupta,Pulmonologist,Mumbai,Maharashtra,West,Medical College,C,Low,2019-06-20,No,0
+DOC0085,Dr. Saritha Krishnan,Allergist,Kolkata,West Bengal,East,Medical College,B,Low,2019-12-01,No,0
+DOC0086,Dr. Rekha Singh,Pulmonologist,Bangalore,Karnataka,South,Government Hospital,B,High,2020-07-30,No,3
+DOC0087,Dr. Dinesh Menon,Neurologist,Pune,Maharashtra,West,Nursing Home,B,Low,2021-03-08,No,4
+DOC0088,Dr. Usha Krishnan,Hepatologist,Chennai,Tamil Nadu,South,Government Hospital,B,Medium,2022-02-09,Yes,1
+DOC0089,Dr. Sundar Iyer,Cardiologist,Pune,Maharashtra,West,Government Hospital,B,High,2020-09-21,No,4
+DOC0090,Dr. Parvathi Sharma,Neurologist,Ahmedabad,Gujarat,West,Clinic,A,Low,2021-10-24,No,2
+DOC0091,Dr. Gopal Rao,Immunologist,Chennai,Tamil Nadu,South,Government Hospital,C,Medium,2020-01-24,Yes,5
+DOC0092,Dr. Suresh Shah,Neurologist,Kolkata,West Bengal,East,Clinic,A,Medium,2019-05-23,No,3
+DOC0093,Dr. Deepa Sharma,Oncologist,Hyderabad,Telangana,South,Government Hospital,B,Medium,2020-08-09,No,1
+DOC0094,Dr. Kamala Iyer,General Physician,Jaipur,Rajasthan,North,Government Hospital,C,Medium,2019-10-15,Yes,0
+DOC0095,Dr. Venkat Das,Neurologist,Coimbatore,Tamil Nadu,South,Private Hospital,B,Low,2019-11-22,No,4
+DOC0096,Dr. Vijay Verma,Oncologist,Jaipur,Rajasthan,North,Government Hospital,B,Low,2020-04-21,No,4
+DOC0097,Dr. Radha Shah,General Physician,Delhi,Delhi,North,Clinic,B,Medium,2022-05-05,No,4
+DOC0098,Dr. Anil Gupta,Oncologist,Delhi,Delhi,North,Nursing Home,B,Medium,2020-02-12,No,3
+DOC0099,Dr. Ajay Rao,Immunologist,Delhi,Delhi,North,Nursing Home,B,Low,2019-07-22,No,5
+DOC0100,Dr. Usha Rao,Allergist,Kolkata,West Bengal,East,Medical College,A,Low,2022-07-05,No,3
+DOC0101,Dr. Kamala Verma,General Physician,Chandigarh,Punjab,North,Nursing Home,A,Medium,2021-02-25,No,4
+DOC0102,Dr. Suresh Sharma,Diabetologist,Coimbatore,Tamil Nadu,South,Nursing Home,B,Medium,2022-02-06,No,5
+DOC0103,Dr. Ajay Singh,Allergist,Hyderabad,Telangana,South,Private Hospital,B,High,2022-01-13,No,4
+DOC0104,Dr. Deepa Iyer,Cardiologist,Lucknow,Uttar Pradesh,North,Private Hospital,B,Medium,2020-11-28,No,4
+DOC0105,Dr. Venkat Patel,Cardiologist,Bhubaneswar,Odisha,East,Medical College,B,Low,2019-04-22,No,4
+DOC0106,Dr. Anbu Gupta,General Physician,Bhubaneswar,Odisha,East,Private Hospital,C,Low,2019-08-19,No,5
+DOC0107,Dr. Geetha Das,Pulmonologist,Ahmedabad,Gujarat,West,Private Hospital,C,Medium,2020-03-06,No,0
+DOC0108,Dr. Kavitha Gupta,Cardiologist,Chandigarh,Punjab,North,Clinic,A,Low,2020-11-03,No,4
+DOC0109,Dr. Anil Shah,Cardiologist,Pune,Maharashtra,West,Medical College,C,Medium,2022-10-21,No,5
+DOC0110,Dr. Prakash Krishnan,Hepatologist,Kochi,Kerala,South,Nursing Home,A,Medium,2020-06-30,No,0
+DOC0111,Dr. Nirmala Nair,Cardiologist,Bangalore,Karnataka,South,Government Hospital,A,Medium,2022-06-30,No,1
+DOC0112,Dr. Nirmala Sharma,Immunologist,Bangalore,Karnataka,South,Clinic,C,Low,2020-02-16,Yes,0
+DOC0113,Dr. Anil Gupta,Oncologist,Nagpur,Maharashtra,West,Private Hospital,A,Medium,2021-08-06,No,1
+DOC0114,Dr. Ramesh Nair,Neurologist,Ahmedabad,Gujarat,West,Nursing Home,C,Medium,2022-03-21,No,3
+DOC0115,Dr. Ramesh Shah,Hepatologist,Jaipur,Rajasthan,North,Nursing Home,C,High,2020-03-10,No,1
+DOC0116,Dr. Suresh Nair,Diabetologist,Coimbatore,Tamil Nadu,South,Government Hospital,A,Medium,2019-06-04,No,1
+DOC0117,Dr. Geetha Singh,Oncologist,Mumbai,Maharashtra,West,Medical College,C,Medium,2022-07-23,No,2
+DOC0118,Dr. Prakash Rao,Immunologist,Kochi,Kerala,South,Government Hospital,B,High,2019-11-12,Yes,2
+DOC0119,Dr. Kavitha Patel,Pulmonologist,Lucknow,Uttar Pradesh,North,Private Hospital,B,Medium,2019-03-06,No,2
+DOC0120,Dr. Mohan Sharma,Pulmonologist,Chennai,Tamil Nadu,South,Clinic,A,Medium,2022-02-19,No,4
+DOC0121,Dr. Rekha Kumar,General Physician,Ahmedabad,Gujarat,West,Government Hospital,B,Medium,2022-06-08,No,1
+DOC0122,Dr. Ramesh Shah,Allergist,Bangalore,Karnataka,South,Private Hospital,C,Medium,2022-03-12,No,3
+DOC0123,Dr. Rajan Iyer,General Physician,Nagpur,Maharashtra,West,Private Hospital,C,Medium,2022-08-30,No,5
+DOC0124,Dr. Mahesh Krishnan,Cardiologist,Kolkata,West Bengal,East,Government Hospital,B,Low,2019-03-02,No,2
+DOC0125,Dr. Vijay Gupta,Immunologist,Delhi,Delhi,North,Government Hospital,A,Medium,2021-03-08,No,2
+DOC0126,Dr. Ashok Nair,Pulmonologist,Pune,Maharashtra,West,Government Hospital,B,Medium,2019-05-02,Yes,4
+DOC0127,Dr. Sundar Singh,Allergist,Nagpur,Maharashtra,West,Private Hospital,B,Low,2019-07-02,No,4
+DOC0128,Dr. Prakash Pillai,Diabetologist,Pune,Maharashtra,West,Private Hospital,B,Low,2020-02-14,No,4
+DOC0129,Dr. Vijay Krishnan,Hepatologist,Kochi,Kerala,South,Clinic,B,Medium,2021-08-18,Yes,1
+DOC0130,Dr. Sanjay Rao,Hepatologist,Ahmedabad,Gujarat,West,Medical College,B,Medium,2019-10-23,Yes,3
+DOC0131,Dr. Geetha Gupta,Allergist,Nagpur,Maharashtra,West,Private Hospital,B,Medium,2020-02-20,No,3
+DOC0132,Dr. Rajan Shah,Pulmonologist,Nagpur,Maharashtra,West,Medical College,B,High,2022-09-09,No,3
+DOC0133,Dr. Sanjay Patel,Hepatologist,Nagpur,Maharashtra,West,Medical College,B,Low,2020-10-08,No,1
+DOC0134,Dr. Anil Sharma,Neurologist,Jaipur,Rajasthan,North,Medical College,B,Medium,2022-02-01,No,5
+DOC0135,Dr. Radha Verma,Allergist,Nagpur,Maharashtra,West,Medical College,A,High,2020-04-01,No,5
+DOC0136,Dr. Rajan Das,Pulmonologist,Bangalore,Karnataka,South,Government Hospital,C,Low,2019-12-01,No,2
+DOC0137,Dr. Dinesh Das,Hepatologist,Chennai,Tamil Nadu,South,Nursing Home,B,High,2022-09-05,No,3
+DOC0138,Dr. Suresh Verma,Pulmonologist,Kolkata,West Bengal,East,Nursing Home,B,Low,2021-07-20,No,0
+DOC0139,Dr. Ashok Verma,Immunologist,Delhi,Delhi,North,Government Hospital,B,Low,2019-10-04,Yes,5
+DOC0140,Dr. Nirmala Gupta,Neurologist,Chandigarh,Punjab,North,Clinic,B,High,2022-12-08,No,4
+DOC0141,Dr. Radha Das,Diabetologist,Chandigarh,Punjab,North,Government Hospital,B,Low,2022-12-25,No,1
+DOC0142,Dr. Meena Pillai,Diabetologist,Bhubaneswar,Odisha,East,Medical College,B,High,2022-02-18,No,2
+DOC0143,Dr. Kavitha Kumar,Neurologist,Chennai,Tamil Nadu,South,Nursing Home,A,Medium,2020-07-08,No,1
+DOC0144,Dr. Radha Kumar,Pulmonologist,Mumbai,Maharashtra,West,Medical College,C,Low,2021-07-13,No,5
+DOC0145,Dr. Mahesh Iyer,General Physician,Mumbai,Maharashtra,West,Medical College,A,Low,2020-03-13,No,4
+DOC0146,Dr. Usha Iyer,Cardiologist,Kolkata,West Bengal,East,Nursing Home,B,Low,2019-04-27,No,5
+DOC0147,Dr. Sundar Krishnan,General Physician,Mumbai,Maharashtra,West,Government Hospital,C,Low,2021-04-23,No,2
+DOC0148,Dr. Prakash Nair,Allergist,Hyderabad,Telangana,South,Medical College,B,Low,2019-07-03,No,3
+DOC0149,Dr. Ramesh Krishnan,Oncologist,Kolkata,West Bengal,East,Government Hospital,B,High,2022-01-08,No,4
+DOC0150,Dr. Anbu Shah,Hepatologist,Delhi,Delhi,North,Nursing Home,B,Medium,2019-12-08,No,5
+DOC0151,Dr. Sanjay Singh,General Physician,Hyderabad,Telangana,South,Government Hospital,B,Medium,2019-03-06,No,3
+DOC0152,Dr. Dinesh Reddy,Neurologist,Ahmedabad,Gujarat,West,Private Hospital,B,Medium,2019-03-08,No,1
+DOC0153,Dr. Kavitha Verma,General Physician,Bangalore,Karnataka,South,Government Hospital,C,Medium,2020-09-10,No,0
+DOC0154,Dr. Nirmala Reddy,Allergist,Chandigarh,Punjab,North,Nursing Home,C,High,2022-08-28,No,5
+DOC0155,Dr. Gopal Nair,Immunologist,Chandigarh,Punjab,North,Government Hospital,B,Low,2021-01-28,No,4
+DOC0156,Dr. Lalitha Nair,Cardiologist,Delhi,Delhi,North,Government Hospital,A,Medium,2019-10-30,No,2
+DOC0157,Dr. Usha Patel,Diabetologist,Chennai,Tamil Nadu,South,Private Hospital,C,Medium,2019-05-11,No,1
+DOC0158,Dr. Ashok Nair,Immunologist,Jaipur,Rajasthan,North,Nursing Home,B,High,2019-09-03,No,4
+DOC0159,Dr. Anil Patel,Oncologist,Ahmedabad,Gujarat,West,Government Hospital,B,Low,2021-01-10,No,5
+DOC0160,Dr. Prakash Shah,Pulmonologist,Chandigarh,Punjab,North,Private Hospital,A,High,2020-12-09,No,1
+DOC0161,Dr. Geetha Kumar,Neurologist,Bangalore,Karnataka,South,Private Hospital,B,Low,2020-03-27,No,0
+DOC0162,Dr. Ashok Pillai,Oncologist,Nagpur,Maharashtra,West,Medical College,B,Low,2019-08-08,No,5
+DOC0163,Dr. Lalitha Sharma,Hepatologist,Chandigarh,Punjab,North,Clinic,C,Medium,2019-09-20,No,5
+DOC0164,Dr. Gopal Sharma,Neurologist,Bhubaneswar,Odisha,East,Nursing Home,C,Low,2019-10-07,No,2
+DOC0165,Dr. Meena Das,Immunologist,Hyderabad,Telangana,South,Nursing Home,C,Medium,2019-07-21,No,0
+DOC0166,Dr. Lalitha Das,General Physician,Chandigarh,Punjab,North,Government Hospital,B,High,2021-01-10,No,2
+DOC0167,Dr. Rajan Krishnan,Allergist,Chandigarh,Punjab,North,Medical College,A,Medium,2020-04-21,No,4
+DOC0168,Dr. Sanjay Menon,Cardiologist,Delhi,Delhi,North,Government Hospital,C,Low,2020-03-24,No,3
+DOC0169,Dr. Prakash Shah,Cardiologist,Kochi,Kerala,South,Private Hospital,C,Medium,2019-09-17,No,2
+DOC0170,Dr. Suresh Nair,Oncologist,Bangalore,Karnataka,South,Clinic,C,Medium,2022-12-06,Yes,2
+DOC0171,Dr. Rajan Kumar,Diabetologist,Ahmedabad,Gujarat,West,Government Hospital,C,High,2020-03-22,Yes,0
+DOC0172,Dr. Mahesh Shah,Immunologist,Mumbai,Maharashtra,West,Government Hospital,C,Medium,2020-11-21,No,5
+DOC0173,Dr. Ashok Pillai,Cardiologist,Ahmedabad,Gujarat,West,Government Hospital,C,Medium,2020-02-19,Yes,1
+DOC0174,Dr. Sanjay Gupta,Neurologist,Bangalore,Karnataka,South,Clinic,B,Low,2022-03-30,No,0
+DOC0175,Dr. Kamala Verma,Diabetologist,Coimbatore,Tamil Nadu,South,Government Hospital,C,High,2021-05-21,No,3
+DOC0176,Dr. Dinesh Krishnan,Allergist,Mumbai,Maharashtra,West,Private Hospital,B,Medium,2022-03-07,No,5
+DOC0177,Dr. Sundar Krishnan,Neurologist,Jaipur,Rajasthan,North,Clinic,C,Medium,2019-01-15,No,4
+DOC0178,Dr. Sundar Verma,General Physician,Pune,Maharashtra,West,Government Hospital,C,Medium,2021-02-10,No,3
+DOC0179,Dr. Anil Sharma,Oncologist,Nagpur,Maharashtra,West,Nursing Home,B,Medium,2020-03-19,No,3
+DOC0180,Dr. Deepa Shah,Immunologist,Mumbai,Maharashtra,West,Medical College,C,Medium,2022-07-08,No,1
+DOC0181,Dr. Radha Patel,Hepatologist,Kolkata,West Bengal,East,Medical College,A,Medium,2020-07-25,No,2
+DOC0182,Dr. Saritha Verma,General Physician,Kochi,Kerala,South,Clinic,C,High,2020-11-11,Yes,1
+DOC0183,Dr. Sundar Kumar,Cardiologist,Ahmedabad,Gujarat,West,Medical College,B,Low,2021-12-21,No,0
+DOC0184,Dr. Suresh Kumar,Neurologist,Bhubaneswar,Odisha,East,Government Hospital,B,Medium,2020-05-09,No,3
+DOC0185,Dr. Gopal Das,Neurologist,Hyderabad,Telangana,South,Clinic,A,High,2019-12-08,Yes,1
+DOC0186,Dr. Geetha Sharma,Diabetologist,Lucknow,Uttar Pradesh,North,Clinic,A,Medium,2021-06-17,No,3
+DOC0187,Dr. Deepa Nair,Pulmonologist,Nagpur,Maharashtra,West,Nursing Home,B,High,2021-06-16,No,0
+DOC0188,Dr. Geetha Nair,Immunologist,Nagpur,Maharashtra,West,Nursing Home,B,Medium,2021-07-20,No,0
+DOC0189,Dr. Anbu Pillai,Allergist,Nagpur,Maharashtra,West,Nursing Home,A,High,2021-11-30,No,3
+DOC0190,Dr. Mohan Gupta,Diabetologist,Bangalore,Karnataka,South,Medical College,B,Medium,2021-07-28,No,4
+DOC0191,Dr. Rajan Krishnan,Neurologist,Hyderabad,Telangana,South,Government Hospital,B,Medium,2020-04-24,Yes,1
+DOC0192,Dr. Vijay Krishnan,Diabetologist,Chennai,Tamil Nadu,South,Medical College,B,Medium,2020-11-14,No,2
+DOC0193,Dr. Lalitha Singh,Hepatologist,Nagpur,Maharashtra,West,Government Hospital,B,Medium,2020-05-15,No,1
+DOC0194,Dr. Kavitha Shah,Hepatologist,Hyderabad,Telangana,South,Government Hospital,B,Low,2019-06-18,Yes,1
+DOC0195,Dr. Anil Verma,Immunologist,Jaipur,Rajasthan,North,Medical College,B,Medium,2021-12-30,No,5
+DOC0196,Dr. Suresh Patel,Neurologist,Pune,Maharashtra,West,Clinic,A,High,2022-08-19,No,2
+DOC0197,Dr. Usha Sharma,Pulmonologist,Bangalore,Karnataka,South,Private Hospital,B,High,2022-04-07,Yes,1
+DOC0198,Dr. Ramesh Iyer,General Physician,Bangalore,Karnataka,South,Clinic,C,Low,2020-04-25,Yes,2
+DOC0199,Dr. Lalitha Singh,Immunologist,Lucknow,Uttar Pradesh,North,Clinic,B,Medium,2019-10-20,Yes,5
+DOC0200,Dr. Mohan Rao,Oncologist,Pune,Maharashtra,West,Private Hospital,B,High,2020-04-12,Yes,4
+DOC0201,Dr. Suresh Nair,Allergist,Hyderabad,Telangana,South,Nursing Home,A,High,2022-03-19,No,0
+DOC0202,Dr. Kavitha Iyer,Hepatologist,Nagpur,Maharashtra,West,Clinic,B,High,2019-05-24,No,1
+DOC0203,Dr. Vijay Rao,Cardiologist,Kochi,Kerala,South,Nursing Home,B,Medium,2022-05-03,No,4
+DOC0204,Dr. Anil Das,Hepatologist,Chennai,Tamil Nadu,South,Private Hospital,B,High,2022-03-09,No,5
+DOC0205,Dr. Ajay Menon,General Physician,Jaipur,Rajasthan,North,Clinic,C,Medium,2020-03-08,No,5
+DOC0206,Dr. Vijay Gupta,Immunologist,Ahmedabad,Gujarat,West,Nursing Home,C,Medium,2021-04-11,No,0
+DOC0207,Dr. Parvathi Patel,Allergist,Ahmedabad,Gujarat,West,Government Hospital,B,Medium,2019-01-31,No,1
+DOC0208,Dr. Rajan Das,Immunologist,Jaipur,Rajasthan,North,Government Hospital,B,High,2020-03-15,No,4
+DOC0209,Dr. Ramesh Iyer,Cardiologist,Ahmedabad,Gujarat,West,Medical College,A,Low,2022-08-27,No,5
+DOC0210,Dr. Ajay Singh,General Physician,Jaipur,Rajasthan,North,Clinic,A,Medium,2019-08-19,Yes,1
+DOC0211,Dr. Suresh Kumar,Diabetologist,Lucknow,Uttar Pradesh,North,Government Hospital,B,Medium,2020-05-30,No,0
+DOC0212,Dr. Anbu Singh,Cardiologist,Nagpur,Maharashtra,West,Private Hospital,C,Medium,2022-04-18,No,4
+DOC0213,Dr. Radha Patel,Neurologist,Bangalore,Karnataka,South,Clinic,B,High,2019-05-30,No,1
+DOC0214,Dr. Venkat Reddy,Immunologist,Chandigarh,Punjab,North,Government Hospital,B,High,2019-09-18,No,0
+DOC0215,Dr. Gopal Krishnan,Diabetologist,Mumbai,Maharashtra,West,Private Hospital,C,High,2022-09-27,No,2
+DOC0216,Dr. Kavitha Menon,Hepatologist,Ahmedabad,Gujarat,West,Clinic,B,Medium,2022-01-01,No,4
+DOC0217,Dr. Ramesh Menon,Immunologist,Nagpur,Maharashtra,West,Medical College,B,Medium,2020-04-02,No,5
+DOC0218,Dr. Meena Kumar,General Physician,Chandigarh,Punjab,North,Government Hospital,C,High,2019-10-11,No,5
+DOC0219,Dr. Ashok Patel,Oncologist,Jaipur,Rajasthan,North,Nursing Home,B,Low,2021-05-03,No,5
+DOC0220,Dr. Vijay Gupta,Hepatologist,Coimbatore,Tamil Nadu,South,Medical College,A,Low,2021-06-27,No,2
+DOC0221,Dr. Deepa Patel,Hepatologist,Mumbai,Maharashtra,West,Clinic,C,Low,2021-05-21,Yes,3
+DOC0222,Dr. Mahesh Nair,Allergist,Bhubaneswar,Odisha,East,Nursing Home,C,Medium,2022-07-12,No,2
+DOC0223,Dr. Deepa Nair,Pulmonologist,Mumbai,Maharashtra,West,Government Hospital,B,Low,2021-04-04,No,3
+DOC0224,Dr. Deepa Sharma,Neurologist,Delhi,Delhi,North,Government Hospital,A,High,2020-02-01,Yes,2
+DOC0225,Dr. Geetha Gupta,Hepatologist,Mumbai,Maharashtra,West,Nursing Home,C,Low,2019-02-19,No,3
+DOC0226,Dr. Saritha Gupta,Diabetologist,Hyderabad,Telangana,South,Nursing Home,C,Medium,2021-06-18,No,1
+DOC0227,Dr. Ramesh Das,Hepatologist,Ahmedabad,Gujarat,West,Government Hospital,A,Medium,2020-07-12,No,3
+DOC0228,Dr. Anil Verma,Diabetologist,Hyderabad,Telangana,South,Government Hospital,B,High,2020-07-26,No,5
+DOC0229,Dr. Prakash Patel,General Physician,Delhi,Delhi,North,Medical College,A,High,2020-11-01,No,3
+DOC0230,Dr. Radha Patel,Oncologist,Hyderabad,Telangana,South,Private Hospital,B,High,2019-12-07,No,2
+DOC0231,Dr. Nirmala Kumar,Immunologist,Mumbai,Maharashtra,West,Clinic,A,Medium,2019-06-16,No,3
+DOC0232,Dr. Ashok Kumar,Oncologist,Kochi,Kerala,South,Government Hospital,B,High,2020-06-26,No,1
+DOC0233,Dr. Geetha Krishnan,Diabetologist,Bangalore,Karnataka,South,Nursing Home,C,Low,2019-01-18,No,2
+DOC0234,Dr. Rekha Nair,Cardiologist,Mumbai,Maharashtra,West,Medical College,A,Medium,2019-11-25,No,3
+DOC0235,Dr. Parvathi Pillai,Cardiologist,Lucknow,Uttar Pradesh,North,Clinic,B,Medium,2020-05-03,No,4
+DOC0236,Dr. Nirmala Rao,Diabetologist,Jaipur,Rajasthan,North,Government Hospital,B,Medium,2020-12-06,No,1
+DOC0237,Dr. Parvathi Das,Pulmonologist,Jaipur,Rajasthan,North,Medical College,A,Medium,2022-03-13,No,3
+DOC0238,Dr. Ashok Nair,Immunologist,Lucknow,Uttar Pradesh,North,Nursing Home,B,Medium,2019-05-21,No,0
+DOC0239,Dr. Rekha Nair,Oncologist,Delhi,Delhi,North,Medical College,A,Medium,2022-02-08,No,5
+DOC0240,Dr. Radha Sharma,Pulmonologist,Chennai,Tamil Nadu,South,Medical College,B,Medium,2022-03-21,No,5
+DOC0241,Dr. Nirmala Kumar,Oncologist,Coimbatore,Tamil Nadu,South,Government Hospital,B,Medium,2019-08-27,No,1
+DOC0242,Dr. Suresh Gupta,General Physician,Chandigarh,Punjab,North,Clinic,B,Low,2019-03-09,No,0
+DOC0243,Dr. Mohan Reddy,Oncologist,Nagpur,Maharashtra,West,Nursing Home,C,High,2021-07-27,Yes,0
+DOC0244,Dr. Rekha Reddy,Oncologist,Bangalore,Karnataka,South,Clinic,A,Low,2021-05-09,No,1
+DOC0245,Dr. Ajay Kumar,General Physician,Kolkata,West Bengal,East,Nursing Home,C,High,2022-09-27,No,0
+DOC0246,Dr. Rajan Menon,Cardiologist,Kolkata,West Bengal,East,Medical College,C,Low,2020-04-22,Yes,1
+DOC0247,Dr. Deepa Reddy,Cardiologist,Coimbatore,Tamil Nadu,South,Government Hospital,C,Medium,2020-10-23,No,1
+DOC0248,Dr. Saritha Das,Pulmonologist,Kochi,Kerala,South,Private Hospital,B,High,2021-04-15,No,1
+DOC0249,Dr. Rekha Gupta,Oncologist,Ahmedabad,Gujarat,West,Clinic,C,Medium,2021-07-04,No,1
+DOC0250,Dr. Dinesh Nair,General Physician,Nagpur,Maharashtra,West,Private Hospital,B,Low,2019-03-09,No,5
+DOC0251,Dr. Usha Gupta,Cardiologist,Bangalore,Karnataka,South,Government Hospital,B,Medium,2021-08-30,No,1
+DOC0252,Dr. Nirmala Pillai,Immunologist,Chandigarh,Punjab,North,Private Hospital,B,Low,2022-12-14,No,2
+DOC0253,Dr. Usha Gupta,Immunologist,Chandigarh,Punjab,North,Clinic,B,High,2019-12-30,No,4
+DOC0254,Dr. Kavitha Patel,Diabetologist,Jaipur,Rajasthan,North,Private Hospital,B,Medium,2021-10-11,No,3
+DOC0255,Dr. Prakash Verma,Allergist,Coimbatore,Tamil Nadu,South,Nursing Home,A,Medium,2022-10-23,No,1
+DOC0256,Dr. Radha Iyer,Allergist,Chandigarh,Punjab,North,Nursing Home,B,Medium,2019-08-07,No,2
+DOC0257,Dr. Meena Kumar,General Physician,Mumbai,Maharashtra,West,Nursing Home,B,Medium,2019-03-19,No,1
+DOC0258,Dr. Venkat Iyer,Allergist,Hyderabad,Telangana,South,Medical College,B,High,2022-04-07,No,2
+DOC0259,Dr. Sanjay Rao,Hepatologist,Hyderabad,Telangana,South,Nursing Home,A,Medium,2022-09-08,No,4
+DOC0260,Dr. Parvathi Iyer,Allergist,Chennai,Tamil Nadu,South,Medical College,C,High,2019-02-27,No,3
+DOC0261,Dr. Gopal Menon,Cardiologist,Bangalore,Karnataka,South,Clinic,B,High,2021-04-14,No,2
+DOC0262,Dr. Sundar Kumar,Oncologist,Lucknow,Uttar Pradesh,North,Clinic,B,Medium,2019-02-06,No,5
+DOC0263,Dr. Suresh Pillai,Oncologist,Pune,Maharashtra,West,Government Hospital,C,Medium,2020-10-13,Yes,4
+DOC0264,Dr. Priya Singh,Immunologist,Nagpur,Maharashtra,West,Government Hospital,A,Medium,2019-12-12,No,1
+DOC0265,Dr. Sanjay Sharma,Cardiologist,Chennai,Tamil Nadu,South,Nursing Home,B,High,2022-03-16,No,1
+DOC0266,Dr. Anbu Sharma,Allergist,Delhi,Delhi,North,Medical College,A,Medium,2022-04-14,No,4
+DOC0267,Dr. Sanjay Shah,General Physician,Bhubaneswar,Odisha,East,Medical College,B,High,2019-01-10,Yes,4
+DOC0268,Dr. Anil Das,Neurologist,Ahmedabad,Gujarat,West,Nursing Home,B,Medium,2021-02-20,No,0
+DOC0269,Dr. Rajan Menon,Oncologist,Chandigarh,Punjab,North,Clinic,B,Medium,2020-04-25,No,0
+DOC0270,Dr. Mahesh Iyer,Neurologist,Lucknow,Uttar Pradesh,North,Medical College,B,High,2019-01-06,No,5
+DOC0271,Dr. Ashok Sharma,Immunologist,Delhi,Delhi,North,Clinic,C,Medium,2022-08-06,No,5
+DOC0272,Dr. Parvathi Gupta,Allergist,Delhi,Delhi,North,Nursing Home,B,Low,2021-07-12,No,3
+DOC0273,Dr. Vijay Verma,Hepatologist,Bhubaneswar,Odisha,East,Medical College,B,Medium,2019-08-03,No,2
+DOC0274,Dr. Kamala Menon,Pulmonologist,Hyderabad,Telangana,South,Government Hospital,A,Low,2022-07-07,No,0
+DOC0275,Dr. Mohan Verma,Pulmonologist,Lucknow,Uttar Pradesh,North,Nursing Home,B,Medium,2019-01-07,No,3
+DOC0276,Dr. Anil Shah,General Physician,Bhubaneswar,Odisha,East,Government Hospital,B,High,2020-05-14,No,2
+DOC0277,Dr. Gopal Iyer,General Physician,Chennai,Tamil Nadu,South,Government Hospital,B,High,2020-12-30,No,0
+DOC0278,Dr. Sundar Das,Immunologist,Pune,Maharashtra,West,Medical College,B,Medium,2021-11-13,No,3
+DOC0279,Dr. Rajan Patel,General Physician,Coimbatore,Tamil Nadu,South,Clinic,C,Medium,2020-11-14,Yes,4
+DOC0280,Dr. Sundar Das,Oncologist,Chandigarh,Punjab,North,Government Hospital,B,Low,2020-11-16,No,5
+DOC0281,Dr. Sanjay Gupta,Neurologist,Chandigarh,Punjab,North,Clinic,A,High,2022-02-24,No,2
+DOC0282,Dr. Mohan Gupta,Oncologist,Chandigarh,Punjab,North,Clinic,B,Medium,2020-07-01,No,4
+DOC0283,Dr. Mahesh Gupta,Hepatologist,Bangalore,Karnataka,South,Government Hospital,C,Medium,2020-12-07,No,4
+DOC0284,Dr. Suresh Patel,Immunologist,Coimbatore,Tamil Nadu,South,Government Hospital,C,Medium,2021-01-21,No,0
+DOC0285,Dr. Venkat Krishnan,Diabetologist,Bangalore,Karnataka,South,Clinic,C,Low,2020-11-20,No,5
+DOC0286,Dr. Radha Reddy,General Physician,Kochi,Kerala,South,Medical College,B,Medium,2019-08-09,Yes,1
+DOC0287,Dr. Parvathi Nair,Neurologist,Chennai,Tamil Nadu,South,Nursing Home,B,Medium,2020-12-03,No,2
+DOC0288,Dr. Venkat Menon,General Physician,Delhi,Delhi,North,Clinic,C,Medium,2022-08-06,No,4
+DOC0289,Dr. Kavitha Shah,Neurologist,Delhi,Delhi,North,Clinic,C,High,2021-06-25,No,1
+DOC0290,Dr. Geetha Menon,Oncologist,Pune,Maharashtra,West,Medical College,C,Low,2021-08-12,No,2
+DOC0291,Dr. Anil Patel,Cardiologist,Hyderabad,Telangana,South,Nursing Home,B,Low,2020-12-12,No,0
+DOC0292,Dr. Rajan Rao,Cardiologist,Nagpur,Maharashtra,West,Government Hospital,B,Medium,2021-04-14,No,5
+DOC0293,Dr. Usha Verma,Neurologist,Coimbatore,Tamil Nadu,South,Government Hospital,C,Low,2019-10-28,No,0
+DOC0294,Dr. Priya Patel,Allergist,Lucknow,Uttar Pradesh,North,Government Hospital,A,High,2021-01-06,No,4
+DOC0295,Dr. Anbu Kumar,Cardiologist,Delhi,Delhi,North,Nursing Home,A,High,2019-02-15,No,1
+DOC0296,Dr. Kavitha Singh,Oncologist,Ahmedabad,Gujarat,West,Government Hospital,B,Medium,2020-09-06,No,0
+DOC0297,Dr. Saritha Krishnan,Immunologist,Kolkata,West Bengal,East,Medical College,A,High,2020-04-20,Yes,1
+DOC0298,Dr. Ashok Singh,Neurologist,Nagpur,Maharashtra,West,Nursing Home,B,High,2020-04-07,No,1
+DOC0299,Dr. Sundar Verma,General Physician,Lucknow,Uttar Pradesh,North,Clinic,C,Medium,2022-01-22,No,1
+DOC0300,Dr. Parvathi Pillai,General Physician,Delhi,Delhi,North,Clinic,B,Medium,2022-12-17,No,1
