@@ -1,0 +1,42 @@
+[
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20ClinicalTrials.csv",
+        "p_sink_folder" : "Pharma_ClinicalTrials",
+        "p_sink_file" : "Pharma%20ClinicalTrials.csv"
+    },
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20Doctors.csv",
+        "p_sink_folder" : "Pharma_Doctors",
+        "p_sink_file" : "Pharma%20Doctors.csv"
+    },
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20Drug.csv",
+        "p_sink_folder" : "Pharma_Drug",
+        "p_sink_file" : "Pharma%20Drug.csv"
+    },
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20Rep.csv",
+        "p_sink_folder" : "Pharma_Rep",
+        "p_sink_file" : "Pharma%20Rep.csv"
+    },
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20Sales.csv",
+        "p_sink_folder" : "Pharma_Sales",
+        "p_sink_file" : "Pharma%20Sales.csv"
+    },
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20Targets.csv",
+        "p_sink_folder" : "Pharma_Targets",
+        "p_sink_file" : "Pharma%20Targets.csv"
+    },
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20Territory.csv",
+        "p_sink_folder" : "Pharma_Territory",
+        "p_sink_file" : "Pharma%20Territory.csv"
+    },
+    {
+        "p_rel_url" : "sairogye/Fabric2/refs/heads/main/Pharma%20Visits.csv",
+        "p_sink_folder" : "Pharma_Visits",
+        "p_sink_file" : "Pharma%20Visits.csv"
+    }
+]
